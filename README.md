@@ -9,10 +9,7 @@
 <h4 align="center">
           Aplicação para listagem de heróis, seguindo a api da MARVEL!
         </h4>
-        <p align="center">
-          <img alt="GitHub top language" src="https://user-images.githubusercontent.com/48860569/88118892-37812e80-cb95-11ea-843f-149c06bf80dc.png">
-          <img alt="GitHub top language" src="https://user-images.githubusercontent.com/48860569/88118894-38b25b80-cb95-11ea-9bdd-1849177f95e4.png">
-        </p>
+
 
 <p align="center">
           <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -33,7 +30,7 @@ O projeto foi desenvolvido com objetivo de cumprir o desafio técnico e entregar
 
 ```bash
 # Fazer o clone do projeto.
-$ git clone
+$ git clone https://github.com/devEzt/marvelViajarFazBemAlexandre.git
 
 #FRONTEND
 # Ir dentro do repositório clonado
