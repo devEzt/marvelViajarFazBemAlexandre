@@ -10,7 +10,6 @@
           Aplicação para listagem de heróis, seguindo a api da MARVEL!
         </h4>
 
-
 <p align="center">
           <a href="#tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
           <a href="#como-usar">Como Iniciar</a>&nbsp;&nbsp;&nbsp;
@@ -25,6 +24,7 @@ O projeto foi desenvolvido com objetivo de cumprir o desafio técnico e entregar
 - [styled-components](https://github.com/styled-components/styled-components)
 - [React Hooks](https://github.com/rehooks/awesome-react-hooks)
 - [PropTypes](https://github.com/facebook/prop-types)
+- [React Icons](https://react-icons.github.io/react-icons/)
 
 ## Como usar
 
